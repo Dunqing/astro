@@ -75,7 +75,6 @@ export default function markdown({ settings, logging }: AstroPluginOptions): Plu
 					...settings.config.markdown,
 					fileURL: new URL(`file://${fileId}`),
 					frontmatter: raw.data,
-					experimentalAssets: settings.config.experimental.assets,
 				});
 
 				let html = renderResult.code;
