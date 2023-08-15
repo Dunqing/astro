@@ -1,5 +1,15 @@
 # @astrojs/cloudflare
 
+## 7.0.0-beta.2
+
+### Patch Changes
+
+- [#8079](https://github.com/withastro/astro/pull/8079) [`7b77b34ce`](https://github.com/withastro/astro/commit/7b77b34cef8b46c4d14ecf9e5fcb45fb276331ec) Thanks [@alexanderniebuhr](https://github.com/alexanderniebuhr)! - Sync Astro Asset support across both modes
+
+- Updated dependencies [[`c19987df0`](https://github.com/withastro/astro/commit/c19987df0be3520cf774476cea270c03edd08354), [`68efd4a8b`](https://github.com/withastro/astro/commit/68efd4a8b29f248397667801465b3152dc98e9a7), [`afc45af20`](https://github.com/withastro/astro/commit/afc45af2022f7c43fbb6c5c04983695f3819e47e), [`d1f7143f9`](https://github.com/withastro/astro/commit/d1f7143f9caf2ffa0e87cc55c0e05339d3501db3), [`5208a3c8f`](https://github.com/withastro/astro/commit/5208a3c8fefcec7694857fb344af351f4631fc34), [`3e46634fd`](https://github.com/withastro/astro/commit/3e46634fd540e5b967d2e5c9abd6235452cee2f2), [`4477bb41c`](https://github.com/withastro/astro/commit/4477bb41c8ed688785c545731ef5b184b629f4e5)]:
+  - astro@3.0.0-beta.3
+  - @astrojs/underscore-redirects@0.3.0-beta.0
+
 ## 7.0.0-beta.1
 
 ### Minor Changes

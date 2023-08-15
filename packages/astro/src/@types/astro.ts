@@ -142,7 +142,7 @@ export interface CLIFlags {
  */
 export interface AstroGlobal<
 	Props extends Record<string, any> = Record<string, any>,
-	Self = AstroComponentFactory
+	Self = AstroComponentFactory,
 > extends AstroGlobalPartial,
 		AstroSharedContext<Props> {
 	/**
